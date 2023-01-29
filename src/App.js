@@ -8,7 +8,7 @@ import Settings from "./Components/pages/settings/Settings";
 import Login from "./Components/pages/login/Login";
 import Register from "./Components/pages/register/Register";
 
-import { BrowserRouter as Router, Route,  Link } from "react-router-dom";
+import { BrowserRouter as Router, Route} from "react-router-dom";
 import { Switch } from "react-router";
 
 function App() {
